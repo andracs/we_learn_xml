@@ -5,12 +5,24 @@
   <semester>
     <personer>
       <elev>
-        <name "Simon"/>
-        <age "24"/>
+        <name> Simon <name/>
+        <age> 24 <age/>
+      </elev>
+      <elev>
+        <name> Cosby <name/>
+        <age> 3 <age/>
+      </elev>
+      <elev>
+        <name> Dan <name/>
+        <age> 15 <age/>
       </elev>
       <underviser>
-        <name "Andras">
-        <age 53/>
+        <name> Andras <name/>
+        <age> 63 <age/>
+      </underviser>
+      <underviser>
+        <name> Karsten <name/>
+        <age> 45 <age/>
       </underviser>
     </personer>
   </semester>
