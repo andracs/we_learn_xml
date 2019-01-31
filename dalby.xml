@@ -1,0 +1,17 @@
+<!-- Dette er en oversigt over personer på 2. semester -->
+<?xml version="1.0" encoding="UTF-8"?>
+
+<klasse>
+  <semester>
+    <personer>
+      <elev>
+        <name "Simon"/>
+        <age "24"/>
+      </elev>
+      <underviser>
+        <name "Andras">
+        <age 53/>
+      </underviser>
+    </personer>
+  </semester>
+</klasse>
