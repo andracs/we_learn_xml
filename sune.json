@@ -1,0 +1,36 @@
+{
+"hjort" : {
+"farve" : "guld",
+"type"  : "buk"
+},
+
+"hjort2" : {
+"farve"  : "brun",
+"type"   : "daar"
+},
+
+"hjort3" : {
+"farve"   : "hvid",
+"type"    : "albino"
+},
+
+"hunter" : {
+"gun"    : "sauer",
+"type"   : "gunman"
+},
+
+"hunter2" : {
+"gun"     : "k95",
+"type"    : "scout"
+},
+
+"hunter3" : {
+"gun"     : "no_gun",
+"type"    : "clapper"
+}
+
+
+}
+
+
+}
