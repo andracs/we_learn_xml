@@ -1,0 +1,17 @@
+"Firstname": "Nikolaj"
+  "addresse": {
+    "Vejnavn": "Parkvej",
+    "By": "Næstved",
+    "Postnr": "4700",
+    "Land": "Danmark"
+    }, "Telefonnr": [{
+    "type": "Personlig",
+    "nummer": "+45xxxxx"
+  }, {
+    "type": "Skole",
+    "nummer": "+45xxxxx"
+  }], "Email": [{
+     "Type": "Personlig",
+    "email": "Eksempleemail@mail.com"},{
+    "Type": "skole",
+    "Email": "skolemail@edu.easj"}]
