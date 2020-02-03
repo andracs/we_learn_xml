@@ -2,7 +2,7 @@
     "afdeling":  {
       "navn": "Elektronik",
       "ansatte": [
-         "chef" {
+         "chef" : {
             "navn": "Karsten",
             "startaar": "2019"
          }
