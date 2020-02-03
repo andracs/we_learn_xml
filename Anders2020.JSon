@@ -1,0 +1,25 @@
+{ døgn
+  {
+   "søvn": {
+     "søvnTid": 7,
+     "TidTilbage": 17,
+     }
+    "skole": {
+      "skoleTid": 7,
+      "Tidtilbage": 10,
+      }
+      "variabelTid": {
+        "transport": {"trabsportTid": 3,
+                      "tidTilbage": 7,}
+        "fritid": { "fritidTid":2,
+                    "tidTilbage": 5, } 
+        "madlavning": {"madlavningTid": 1,
+                      "tidtilbage": 4}
+        "rengøring": { "rengøringTid": 1,
+                      "tidTIlbage": 3}
+        "napping": { "nappingTid": 1,
+                      "tidTIlbage": 2, }
+        "hygge": { "hyggeTid": 2,
+                    "tidtilbage": 0, }
+       }
+}
