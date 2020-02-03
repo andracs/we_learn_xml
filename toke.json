@@ -1,4 +1,4 @@
-"game":[
+{"game":{
   "playerlist":[
     {
       "status":"alive",
@@ -43,4 +43,5 @@
       "name":"DefaultMaleChild"
     }
   ]
-]
+}
+}
