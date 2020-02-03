@@ -1,4 +1,4 @@
-{ "bilka": 
+{ "bilka": {
     "afdeling":  {
       "navn": "Elektronik",
       "ansatte": [
@@ -22,4 +22,5 @@
          }
        ]
     }   
+}
 }
