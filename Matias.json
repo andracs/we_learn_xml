@@ -1,0 +1,24 @@
+{"spilbane": {
+
+"spillere": [
+  {
+    "farve": "blå",
+    "type": "nærkamp"
+  },
+  {
+    "farve": "gul",
+    "type": "langdistance"
+  }
+],
+},
+"fjender": [
+  {
+    "farve": "rød",
+    "type": "nærkamp"
+  },
+  {
+    "farve": "rød",
+    "type": "langdistance"
+  }
+]
+}
