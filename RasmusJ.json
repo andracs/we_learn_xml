@@ -2,20 +2,22 @@
     "afdeling":  {
       "navn": "Elektronik",
       "ansatte": [
-         "chef" : {
+          { "stilling" : "chef",
             "navn": "Karsten",
             "startaar": "2019"
          },
-         "teamkoordinator" {
+         {  "stilling": "teamkoordinator",
             "navn": "Peter",
             "startaar": "2016"
          },
-         "sælger" {
+         {
+            "stilling": "sælger",
             "navn": "Rasmus",
             "loen": "120kr",
             "startaar": "2015"
          },
-         "sælger" {
+         {
+            "stilling": "sælger"
             "navn": "Mads",
             "loen": "120kr",
             "startaar": "2017"
