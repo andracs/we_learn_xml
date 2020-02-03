@@ -1,5 +1,6 @@
-{ bilka: 
-    "afdeling": "Elektronik" {
+{ "bilka": 
+    "afdeling":  {
+      "navn": "Elektronik",
       "ansatte": [
          "chef" {
             "navn": "Karsten",
