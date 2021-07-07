@@ -1,0 +1,139 @@
+  {"Chess":{
+    "board":{
+      "piece":{
+        "black":{
+          "type":{
+          "piece": "Rook",
+          "position": "A1"
+          },
+          "type":{
+          "piece": "Knight",
+          "position": "A2"
+          },
+          "type":{
+          "piece": "Bishop",
+          "position": "A3"
+          },
+          "type":{
+          "piece": "Queen",
+          "position": "A4"
+          },
+          "type":{
+          "piece": "Kingt",
+          "position": "A5"
+          },
+          "type":{
+          "piece": "Bishop",
+          "position": "A6"
+          },
+          "type":{
+          "piece": "Knight",
+          "position": "A7"
+          },
+          "type":{
+          "piece": "Rook",
+          "position": "A8"
+          },
+          "type":{
+          "piece": "Pawn",
+          "position": "B1"
+          },
+          "type":{
+          "piece": "Pawn",
+          "position": "B2"
+          },
+          "type":{
+          "piece": "Pawn",
+          "position": "B3"
+          },
+          "type":{
+          "piece": "Pawn",
+          "position": "B4"
+          },
+          "type":{
+          "piece": "Pawn",
+          "position": "B5"
+          },
+          "type":{
+          "piece": "Pawn",
+          "position": "B6"
+          },
+          "type":{
+          "piece": "Pawn",
+          "position": "B7"
+          },
+          "type":{
+          "piece": "Pawn",
+          "position": "B8"
+          }
+         }
+         "white":{
+          "type":{
+          "piece": "Pawn",
+          "position": "F1"
+          },
+          "type":{
+          "piece": "Pawn",
+          "position": "F2"
+          },
+          "type":{
+          "piece": "Pawn",
+          "position": "F3"
+          },
+          "type":{
+          "piece": "Pawn",
+          "position": "F4"
+          },
+          "type":{
+          "piece": "Pawn",
+          "position": "F5"
+          },
+          "type":{
+          "piece": "Pawn",
+          "position": "F6"
+          },
+          "type":{
+          "piece": "Pawn",
+          "position": "F7"
+          },
+          "type":{
+          "piece": "Pawn",
+          "position": "F8"
+          },
+          "type":{
+          "piece": "Rook",
+          "position": "G1"
+          },
+          "type":{
+          "piece": "Knight",
+          "position": "G2"
+          },
+          "type":{
+          "piece": "Bishop",
+          "position": "G3"
+          },
+          "type":{
+          "piece": "Queen",
+          "position": "G4"
+          },
+          "type":{
+          "piece": "Kingt",
+          "position": "G5"
+          },
+          "type":{
+          "piece": "Bishop",
+          "position": "G6"
+          },
+          "type":{
+          "piece": "Knight",
+          "position": "G7"
+          },
+          "type":{
+          "piece": "Rook",
+          "position": "G8"
+          },
+         }
+        }
+       }
+      }
+     }
