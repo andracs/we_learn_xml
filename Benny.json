@@ -1,0 +1,21 @@
+{
+"MagictheGathering": {
+  "deck": [
+    "spell": {
+      "navn": "Negate",
+      "manacost": "1U",
+      "type": "instant
+    },
+    "spell": {
+      "navn": "Disallow",
+      "manacost": "1UU",
+      "type": "instant"
+    },
+    "spell": {
+      "navn": "Supreme Verdict",
+      "manacost": "1WWU",
+      "type": "instant"
+    }
+    ]
+  }
+}
